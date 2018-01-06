@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cinema app</string>
+    <string name="hello">Hello</string>
+    <string name="movies">Movie List</string>
+    <string name="cinemas">Cinema List</string>
+    <string name="genre">Genre:</string>
+    <string name="desc">Description:</string>
+
+</resources>
